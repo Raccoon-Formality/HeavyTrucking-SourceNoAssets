@@ -1,5 +1,5 @@
 # HeavyTrucking-SourceNoAssets
-The source code for my game Heavy Trucking with no assets. I am uploading this promote learning.
+The source code for my game Heavy Trucking with no assets.
 
 This is just the code with no assets. If you would like to have the full source code with assets, please buy my game on itch.io and it will come with a download to a copy of the full source code.
 https://raccoon-formality.itch.io/heavy-trucking
