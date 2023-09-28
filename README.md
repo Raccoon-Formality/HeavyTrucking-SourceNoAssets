@@ -6,9 +6,9 @@ https://raccoon-formality.itch.io/heavy-trucking
 
 If you do purchase the source code and play with it, be sure to change the pdxinfo file to not be the original game's stuff. This can cause version conflicts on the device.
 
-License or whatever:
-  Feel free to use this code in your projects. You are allowed to use any part of my code in your project, even commerical, as long as the majority of your project is still your own work. You are NOT allowed to reupload my code and call it your own or compile the project unedited and call it your own. Attributions are appreciated but not nessisary. If you purchase the source code with the assets, the new assets made for the game are not to be used in other projects. List of free assets used in this project are as followed:
+formal license agreement:
+  The code, including all the .lua files, for this project is under CC0 (https://creativecommons.org/publicdomain/zero/1.0/). The assets, including .png, .gif, .wav, ect. (image and audio files) created for this project are under CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/). Assets used in this project but were not made specifically for this project are listed as followed and follow their own licensing agreements:
 
   - Interface beeps by bart (license: CC0, link: https://opengameart.org/content/interface-beeps)
-  - Playdate SDK Checkboxes and Sasser Slab Font
+  - Playdate SDK Checkboxes and Sasser Slab Font (license: CC BY 4.0, link: https://play.date/)
   
