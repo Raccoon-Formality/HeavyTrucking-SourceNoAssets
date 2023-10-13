@@ -10,4 +10,5 @@ formal license agreement:
   The code, including all the .lua files, for this project are under CC0 (https://creativecommons.org/publicdomain/zero/1.0/). The assets, including .png, .gif, .wav, ect. (image and audio files) created for this project are under CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/). Assets used in this project but were not made specifically for this project are listed as followed and follow their own licensing agreements:
 
   - Interface beeps by bart (license: CC0, link: https://opengameart.org/content/interface-beeps)
+  - 50 CC0 retro / synth SFX by rubberduck (license: CC0, link: https://opengameart.org/content/50-cc0-retro-synth-sfx)
   - Playdate SDK Checkboxes and Sasser Slab Font (license: CC BY 4.0, link: https://sdk.play.date/2.0.3/#_legal_information)
